@@ -1,0 +1,8 @@
+node_modules
+config/access.js
+config/account.js
+config/contract.js
+config/did.js
+test_function.js
+test_finDidAuth.js
+vp example

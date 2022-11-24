@@ -1,0 +1,30 @@
+{
+  "name": "verifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "1.0.1": "^1.0.0",
+    "access-jwt": "^1.0.0",
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "caver-js": "^1.8.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.3.1",
+    "fin-did-auth": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "keccak256": "^1.0.6",
+    "secp256k1": "^4.0.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}
